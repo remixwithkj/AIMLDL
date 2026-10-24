@@ -12,6 +12,6 @@ Licence CC BY 4.0. Credit: Chen, D. (2012), UCI ML Repository, doi 10.24432/C5CG
 The notebook pulls the data with kagglehub. To use your own copy, change the path in the data cell.
 
 ## Read the post
-aimldl.io
+[aimldl.io](https://aimldl.io/2026/10/24/all-customers-are-equal-but-some-are-more-equal-than-others-rfm-step-by-step/)
 
 Part 2 (dealers) coming next.
