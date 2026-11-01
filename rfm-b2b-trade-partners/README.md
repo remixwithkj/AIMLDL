@@ -19,7 +19,7 @@ The notebook pulls the data with kagglehub. To use your own copy, change the pat
 - Settings (snapshot date, window, scoring bands, lens cut-offs) are in section 1. They are a starting point: tune them to your ordering cycle, margins and objectives.
 
 ## Read the post
-[aimldl.io](BLOG_LINK_AFTER_PUBLISHING)
+https://aimldl.io/2026/11/01/rfm-b2-rfm-for-trade-partners/
 
 Part 1 (end customers): [code](../rfm-analysis) · [post](https://aimldl.io/2026/10/24/all-customers-are-equal-but-some-are-more-equal-than-others-rfm-step-by-step/)
 
