@@ -14,4 +14,4 @@ The notebook pulls the data with kagglehub. To use your own copy, change the pat
 ## Read the post
 [aimldl.io](https://aimldl.io/2026/10/24/all-customers-are-equal-but-some-are-more-equal-than-others-rfm-step-by-step/)
 
-   Part 2 (trade partners): [code](../rfm-b2b-trade-partners) · [Kaggle notebook](https://www.kaggle.com/code/krjynt/rfm-b-rfm-for-trade-partners-b2b-step-by-step)
+Part 2 (trade partners): [post](https://aimldl.io/2026/11/01/rfm-b2-rfm-for-trade-partners/) · [code](../rfm-b2b-trade-partners) · [Kaggle notebook](https://www.kaggle.com/code/krjynt/rfm-b-rfm-for-trade-partners-b2b-step-by-step)
