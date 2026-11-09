@@ -20,6 +20,6 @@ The notebook pulls the data with kagglehub.
 - Pick the number of clusters from the elbow chart **and** the business test: can your team name each cluster and act on it differently?
 
 ## Read the post
-[aimldl.io](BLOG_LINK_AFTER_PUBLISHING) · Kaggle notebook: [link](KAGGLE_NOTEBOOK_LINK)
+[aimldl.io](https://aimldl.io/2026/11/09/dont-guess-let-customer-behaviour-find-your-segments/) · Kaggle notebook: [link](https://www.kaggle.com/code/krjynt/let-customer-behaviour-decide-your-segments)
 
 Earlier in the series: Part 1, end customers: [code](../rfm-analysis) · [post](https://aimldl.io/2026/10/24/all-customers-are-equal-but-some-are-more-equal-than-others-rfm-step-by-step/) · Part 2, trade partners: [code](../rfm-b2b-trade-partners) · [post](https://aimldl.io/2026/11/01/rfm-b2-rfm-for-trade-partners/)
