@@ -1,0 +1,46 @@
+file,column,description
+jphone_customer_preferences.csv,customer_id,Customer identifier (C001–C300).
+jphone_customer_preferences.csv,segment,"Customer segment: Value seeker, Camera lover, Battery first or Power user."
+jphone_customer_preferences.csv,imp_brand,Importance of brand to this customer (0–100; the six imp_ columns add up to 100).
+jphone_customer_preferences.csv,imp_price,Importance of price (0–100).
+jphone_customer_preferences.csv,imp_camera,Importance of camera (0–100).
+jphone_customer_preferences.csv,imp_battery,Importance of battery life (0–100).
+jphone_customer_preferences.csv,imp_screen,Importance of screen size (0–100).
+jphone_customer_preferences.csv,imp_memory,Importance of memory (0–100).
+jphone_customer_preferences.csv,brand_jPhone,"Rating of brand jPhone (1 = least liked, 7 = most liked)."
+jphone_customer_preferences.csv,brand_X,Rating of brand X (1–7).
+jphone_customer_preferences.csv,brand_Y,Rating of brand Y (1–7).
+jphone_customer_preferences.csv,r_price_20k,"Rating of a ₹20,000 price (1–7)."
+jphone_customer_preferences.csv,r_price_25k,"Rating of a ₹25,000 price (1–7)."
+jphone_customer_preferences.csv,r_price_30k,"Rating of a ₹30,000 price (1–7)."
+jphone_customer_preferences.csv,r_cam_basic,Rating of a Basic camera (1–7).
+jphone_customer_preferences.csv,r_cam_good,Rating of a Good camera (1–7).
+jphone_customer_preferences.csv,r_cam_best,Rating of the Best camera (1–7).
+jphone_customer_preferences.csv,r_bat_1day,Rating of 1-day battery life (1–7).
+jphone_customer_preferences.csv,r_bat_2days,Rating of 2-day battery life (1–7).
+jphone_customer_preferences.csv,r_scr_6_1,Rating of a 6.1-inch screen (1–7).
+jphone_customer_preferences.csv,r_scr_6_5,Rating of a 6.5-inch screen (1–7).
+jphone_customer_preferences.csv,r_scr_6_8,Rating of a 6.8-inch screen (1–7).
+jphone_customer_preferences.csv,r_mem_128,Rating of 128 GB memory (1–7).
+jphone_customer_preferences.csv,r_mem_256,Rating of 256 GB memory (1–7).
+jphone_customer_preferences.csv,r_mem_512,Rating of 512 GB memory (1–7).
+jphone_customer_preferences.csv,decision_rule,"How the customer decides: 'Trade off' (compensatory) or 'Screen first' (non-compensatory: deal-breakers, then trade off)."
+jphone_customer_preferences.csv,dealbreaker_max_price,Screeners only: highest price they will consider (₹). Blank for trade-off customers.
+jphone_customer_preferences.csv,dealbreaker_min_battery,Screeners only: minimum battery life they will accept. Blank for trade-off customers.
+jphone_customer_preferences.csv,dealbreaker_min_memory,Screeners only: minimum memory they will accept. Blank for trade-off customers.
+jphone_prototypes.csv,product,Product name.
+jphone_prototypes.csv,brand,"Brand: jPhone, X or Y."
+jphone_prototypes.csv,role,"Prototype (jPhone, under test) or Competitor (already on sale)."
+jphone_prototypes.csv,price,Price in ₹.
+jphone_prototypes.csv,camera,"Camera level: Basic, Good or Best."
+jphone_prototypes.csv,battery,Battery life: 1 day or 2 days.
+jphone_prototypes.csv,screen,"Screen size in inches: 6.1"", 6.5"" or 6.8""."
+jphone_prototypes.csv,memory,"Memory: 128, 256 or 512 GB."
+competitors.csv,product,Product name.
+competitors.csv,brand,"Brand: jPhone, X or Y."
+competitors.csv,role,"Prototype (jPhone, under test) or Competitor (already on sale)."
+competitors.csv,price,Price in ₹.
+competitors.csv,camera,"Camera level: Basic, Good or Best."
+competitors.csv,battery,Battery life: 1 day or 2 days.
+competitors.csv,screen,"Screen size in inches: 6.1"", 6.5"" or 6.8""."
+competitors.csv,memory,"Memory: 128, 256 or 512 GB."
