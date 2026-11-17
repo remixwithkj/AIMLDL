@@ -2,8 +2,8 @@
 
 **The algorithmic way to new offer development.** Companion code and data for the aimldl.io post.
 
-**Blog:** BLOG_LINK_AFTER_PUBLISHING  
-**Kaggle notebook:** KAGGLE_NOTEBOOK_LINK  
+**Blog:** **Blog:** [Drive Out Subjectivity, Build What Customers Value](https://aimldl.io/2026/11/17/drive-out-subjectivity-build-what-customers-value/)  
+**Kaggle notebook:** Build What Customers Value: Pick the Winner](https://www.kaggle.com/code/krjynt/build-what-customers-value-pick-the-winner)
 **Dataset on Kaggle:** [jPhone: Customer Preferences for New Products](https://www.kaggle.com/datasets/krjynt/jphone-customer-preferences-for-new-products)
 
 ---
@@ -54,6 +54,12 @@ A fictional phone maker, **jPhone**, has six prototypes and two rival phones on 
 One row per customer, importances that add up to 100, a 1 to 7 rating for every attribute level, and (optionally) a decision rule with deal-breakers. Describe your products and the competition on the same attributes, update the Settings cell, and run all.
 
 > The data is fully simulated. It illustrates the method; it is not evidence about the phone market.
+
+### Companion notebook and blog
+
+- **Blog:** [Drive Out Subjectivity, Build What Customers Value](https://aimldl.io/2026/11/17/drive-out-subjectivity-build-what-customers-value/)
+- **Notebook:** [Build What Customers Value: Pick the Winner](https://www.kaggle.com/code/krjynt/build-what-customers-value-pick-the-winner)
+- **Code on GitHub:** [new-product-preference-analytics](https://github.com/remixwithkj/AIMLDL/tree/main/new-product-preference-analytics)
 
 ---
 
