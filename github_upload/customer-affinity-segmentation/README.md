@@ -1,8 +1,8 @@
-# Customer segments are not isolated islands; they are continuum of probabilities
+# Customer segments are not isolated islands; they are a continuum of probabilities
 
 **Affinity segmentation for targeting, positioning and competitive threat analysis.** Companion code and data for the aimldl.io post.
 
-**Blog:** [Customer segments are not isolated islands; they are continuum of probabilities](BLOG_LINK_AFTER_PUBLISHING)  
+**Blog:** [Customer segments are not isolated islands; they are a continuum of probabilities](https://aimldl.io/2026/11/22/customer-segments-are-a-continuum-of-probabilities/)  
 **Dataset on Kaggle:** [jPhone: Customer Affinity Segmentation](https://www.kaggle.com/datasets/krjynt/jphone-customer-affinity-segmentation)  
 **Previous post:** [Drive Out Subjectivity, Build What Customers Value](https://aimldl.io/2026/11/17/drive-out-subjectivity-build-what-customers-value/) · [code](../new-product-preference-analytics)
 
